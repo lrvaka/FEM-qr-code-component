@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![]<img src="./screenshot.png" alt="drawing" width="100"/>
+<img src="./screenshot.png" alt="drawing" width="300"/>
 
 ### Links
 
